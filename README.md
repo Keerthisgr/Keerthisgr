@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.istockphoto.com/id/1241710244/vector/working-at-home-vector-flat-style-illustration-online-career-coworking-space-illustration.jpg?s=612x612&w=0&k=20&c=U34U9zhLBWDEbfPmgmlnFJiP-EuWu7MEUCxUls_BnKU=">
 
-- 🔭 I’m currently working on **GitHub project**
 
 - 🌱 I’m currently learning **Spring boot.**
 
