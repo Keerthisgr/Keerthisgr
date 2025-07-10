@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.istockphoto.com/id/1241710244/vector/working-at-home-vector-flat-style-illustration-online-career-coworking-space-illustration.jpg?s=612x612&w=0&k=20&c=U34U9zhLBWDEbfPmgmlnFJiP-EuWu7MEUCxUls_BnKU=" alt="Coder Image" width="400" style="animation: float 3s ease-in-out infinite;" />
+  <img src="coder.png" alt="Coder Image" width="400" style="animation: float 3s ease-in-out infinite;" />
 </p>
 
 
