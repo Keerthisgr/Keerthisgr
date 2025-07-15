@@ -72,11 +72,11 @@ A passionate <span class="typewriter">Java Full Stack Developer</span> from Indi
 ### **Java Full Stack Developer** @ [X-workz ODC](https://x-workz.in/) *(Aug 2024 - Jun 2025)*
 - Developing <span class="typewriter">Spring Boot microservices</span> 
 - Implementing <span class="typewriter">RESTful APIs</span> with <span class="typewriter">Hibernate ORM</span>
-- Optimizing database queries with <span class="typewriter">Spring Data JPA</span>
+- Optimizing database queries with <span class="typewriter">Spring Data JPA.</span>
 
 ### **Frontend Intern** @ [JSpiders](https://jspiders.com/) *(Oct 2023 - Jan 2024)*
 - Integrated frontend with <span class="typewriter">Spring Boot REST APIs</span>
-- Implemented <span class="typewriter">Axios</span> for API communication
+- Implemented <span class="typewriter">Axios</span> for API communication.
 
 ---
 
