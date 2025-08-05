@@ -26,7 +26,7 @@
 ---
 
 ## 👨‍💻 Professional Summary
-A passionate <span class="typewriter">Java Full Stack Developer</span> specializing in <span class="typewriter">Spring Framework, Spring MVC and  REST APIs</span>. Proficient in building robust applications with <span class="typewriter">Spring MVC, Hibernate, JPA</span> and crafting responsive UIs with <span class="typewriter">HTML5, CSS3, Bootstrap</span>.
+A passionate <span class="typewriter">Java Full Stack Developer</span> specializing in <span class="typewriter">Spring Framework, Spring MVC and REST APIs</span>. Proficient in building robust applications with <span class="typewriter">Spring MVC, Hibernate, JPA</span> and crafting responsive UIs with <span class="typewriter">HTML5, CSS3, Bootstrap</span>.
 
 ---
 
