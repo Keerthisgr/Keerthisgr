@@ -69,7 +69,7 @@ A passionate <span class="typewriter">Java Full Stack Developer</span> specializ
 
 ## 💼 Experience
 
-### **Java Full Stack Developer** @ [X-workz ODC](https://x-workz.in/) *(Aug 2024 - Jun 2025)*
+### **Java Full Stack Developer** @ [X-workz ODC](https://x-workz.in/) *(Aug 2024 - Mar 2025)*
 - Developing <span class="typewriter">Spring Boot microservices</span> 
 - Implementing <span class="typewriter">RESTful APIs</span> with <span class="typewriter">Hibernate ORM</span>
 - Optimizing database queries with <span class="typewriter">Spring Data JPA.</span>
