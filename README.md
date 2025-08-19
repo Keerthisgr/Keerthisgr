@@ -88,3 +88,20 @@ A passionate <span class="typewriter">Java Full Stack Developer</span> specializ
 - **Bachelor of Computer Applications**  
   Smt. Indira Gandhi Govt. First Grade Women's College, Sagara  
   *Sept 2022*
+
+  ## 📊 GitHub Stats
+
+<!-- Alternative 1 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keerthisgr&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keerthisgr&theme=radical" />
+
+
+<br/>
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Keerthisgr&theme=radical" alt="Keerthisgr" />
+</div>
+
+<br/>
