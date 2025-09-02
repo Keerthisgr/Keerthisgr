@@ -19,10 +19,6 @@
   <img src="coder.png" alt="Coder Image" width="400" style="animation: float 3s ease-in-out infinite;" />
 </p>
 
-
-  
-
-
 ---
 
 ## 👨‍💻 Professional Summary
@@ -89,19 +85,19 @@ A passionate <span class="typewriter">Java Full Stack Developer</span> specializ
   Smt. Indira Gandhi Govt. First Grade Women's College, Sagara  
   *Sept 2022*
 
-  ## 📊 GitHub Stats
+---
 
-<!-- Alternative 1 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keerthisgr&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keerthisgr&theme=radical"/>
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keerthisgr&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keerthisgr&theme=radical" alt="Top Languages"/>
+</p>
 
-<br/>
+---
 
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Keerthisgr&theme=radical" alt="Keerthisgr"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Keerthisgr&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
-
-<br/>
