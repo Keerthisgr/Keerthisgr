@@ -87,12 +87,7 @@ A passionate <span class="typewriter">Java Full Stack Developer</span> specializ
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keerthisgr&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keerthisgr&theme=radical" alt="Top Languages"/>
-</p>
 
 ---
 
