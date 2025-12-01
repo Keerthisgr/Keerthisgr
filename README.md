@@ -12,7 +12,7 @@
 <p align="center">
   🔗 <a href="https://portfolio-m1ni.vercel.app/">Portfolio</a> &nbsp;|&nbsp;
   💼 <a href="https://www.linkedin.com/in/keerthi-s-r-57036b289/">LinkedIn</a> &nbsp;|&nbsp;
-  💻 <a href="https://github.com/Keerthisgr">GitHub </a>
+  💻 <a href="https://github.com/Keerthisgr">GitHub</a>
 </p>
 
 <p align="center">
