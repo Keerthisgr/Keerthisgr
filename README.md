@@ -1,7 +1,7 @@
 <h1 align="center">Keerthi S R</h1>
 
 <h3 align="center">
-  <span class="typewriter-text">Java Full Stack Developer | Spring framework | Web Developer | Backend Developer </span>
+  <span class="typewriter-text">Java Full Stack Developer | Spring Boot | Web Developer | Backend Developer </span>
 </h3>
 
 <p align="center">
