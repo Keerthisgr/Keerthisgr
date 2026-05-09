@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  📍 Rajajinagar, Bangalore &nbsp;|&nbsp;
+  <!-- 📍 Rajajinagar, Bangalore &nbsp;|&nbsp; -->
   📧 <a href="mailto:keerthisr0102@gmail.com">keerthisr0102@gmail.com</a> &nbsp;|&nbsp;
   📞 +91 8088169847  
 </p>
