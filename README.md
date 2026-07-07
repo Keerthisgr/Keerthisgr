@@ -81,6 +81,7 @@ public class Keerthi extends Developer {
 ---
 
 
+<div align="center">
 
 
 📫 Reach me at **keerthisr0102@gmail.com** &nbsp;·&nbsp; open to entry-level Full Stack / Backend roles
