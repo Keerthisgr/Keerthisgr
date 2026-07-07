@@ -82,22 +82,6 @@ public class Keerthi extends Developer {
 
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Keerthisgr&show_icons=true&theme=transparent&title_color=1F3864&text_color=333333&icon_color=6DB33F&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthisgr&layout=compact&theme=transparent&title_color=1F3864&text_color=333333&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Keerthisgr&theme=transparent&hide_border=true&ring=6DB33F&fire=1F3864&currStreakLabel=1F3864"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Keerthisgr&label=Profile%20Views&color=1F3864&style=flat"/>
-</p>
-
-<div align="center">
 
 📫 Reach me at **keerthisr0102@gmail.com** &nbsp;·&nbsp; open to entry-level Full Stack / Backend roles
 
