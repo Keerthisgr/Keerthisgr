@@ -88,6 +88,8 @@ public class Keerthi extends Developer {
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Keerthisgr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <div align="center">
 
+--- 
+
 
 📫 Reach me at **keerthisr0102@gmail.com** &nbsp;·&nbsp; open to entry-level Full Stack / Backend roles
 
