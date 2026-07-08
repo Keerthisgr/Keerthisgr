@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:6DB33F&height=180&section=header&text=Keerthi%20S%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:FF6F00&height=180&section=header&text=Keerthi%20S%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=62&descSize=18" width="100%"/>
 
 <a href="mailto:keerthisr0102@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -21,7 +21,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+Spring+Boot;Turning+ideas+into+clean+REST+APIs;MCA+Graduate+%7C+Fresher+%7C+Fast+learner;Always+shipping%2C+always+learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+Spring+Boot;Turning+ideas+into+clean+REST+APIs;MCA+Graduate+%7C+Fresher+%7C+Fast+learner;Always+shipping%2C+always+learning" alt="Typing SVG" />
 
 </div>
 
@@ -86,6 +86,6 @@ public class Keerthi extends Developer {
 
 📫 Reach me at **keerthisr0102@gmail.com** &nbsp;·&nbsp; open to entry-level Full Stack / Backend roles
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:1F3864&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6F00,100:6A0DAD&height=100&section=footer" width="100%"/>
 
 </div>
