@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:FF6F00&height=180&section=header&text=Keerthi%20S%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A0FF,100:A5B4FC&height=180&section=header&text=Keerthi%20S%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=62&descSize=18" width="100%"/>
 
 <a href="mailto:keerthisr0102@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -12,16 +12,16 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://portfolio-m1ni.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/>
 
-<img src="coder.png" alt="Coder Image" width="380"/>
+<img src="coder.png" alt="Coder Image" width="380" style="background-color:#f5f3f7; border-radius:12px; padding:10px; box-shadow:0 4px 14px rgba(0,0,0,0.35);"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+Spring+Boot;Turning+ideas+into+clean+REST+APIs;MCA+Graduate+%7C+Fresher+%7C+Fast+learner;Always+shipping%2C+always+learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+Spring+Boot;Turning+ideas+into+clean+REST+APIs;MCA+Graduate+%7C+Fresher+%7C+Fast+learner;Always+shipping%2C+always+learning" alt="Typing SVG" />
 
 </div>
 
@@ -50,8 +50,8 @@ public class Keerthi extends Developer {
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-9370DB?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_MVC-9370DB?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
@@ -86,6 +86,6 @@ public class Keerthi extends Developer {
 
 📫 Reach me at **keerthisr0102@gmail.com** &nbsp;·&nbsp; open to entry-level Full Stack / Backend roles
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6F00,100:6A0DAD&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A5B4FC,100:C9A0FF&height=100&section=footer" width="100%"/>
 
 </div>
