@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A0FF,100:A5B4FC&height=180&section=header&text=Keerthi%20S%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A0FF,100:A5B4FC&height=180&section=header&text=Keerthi%20S%20R&fontSize=48&fontColor=ffffff&fontFamily=Poppins&animation=fadeIn&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=62&descSize=18" width="100%"/>
 
 <a href="mailto:keerthisr0102@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
