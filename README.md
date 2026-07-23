@@ -91,4 +91,8 @@ public class Keerthi extends Developer {
 --- 
 
 
+📫 Reach me at **keerthisr0102@gmail.com** &nbsp;·&nbsp; open to entry-level Full Stack / Backend roles
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A5B4FC,100:C9A0FF&height=100&section=footer" width="100%"/>
+
+</div>
