@@ -70,16 +70,7 @@ public class Keerthi extends Developer {
 
 ---
 
-### 💼 Experience
 
-**Java Full Stack Developer Trainee** — [X-Workz ODC](https://x-workz.in/) · *Aug 2024 – Mar 2025*
-- Built end-to-end CRUD applications with Spring MVC, Hibernate, and MySQL, wiring REST APIs to dynamic front-end views.
-- Optimized data access with JDBC/JPA and Hibernate ORM mappings across multiple entity relationships.
-
-**Frontend Development Intern** — [JSpiders](https://jspiders.com/) · *Oct 2023 – Jan 2024*
-- Built responsive UI components with HTML, CSS, and JavaScript; integrated frontend views with REST APIs.
-
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Keerthisgr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
