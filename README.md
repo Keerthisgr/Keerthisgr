@@ -15,11 +15,6 @@
   <img src="https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br/>
-
-<img src="coder.png" alt="Coder Image" width="380" style="background-color:#f5f3f7; border-radius:12px; padding:10px; box-shadow:0 4px 14px rgba(0,0,0,0.35);"/>
-
-<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+Spring+Boot;Turning+ideas+into+clean+REST+APIs;MCA+Graduate+%7C+Fresher+%7C+Fast+learner;Always+shipping%2C+always+learning" alt="Typing SVG" />
 
